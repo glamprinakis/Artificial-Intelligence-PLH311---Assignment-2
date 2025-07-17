@@ -29,6 +29,7 @@ earns points throughout the game.
 
 ## 📂 Quick Tour of the Code
 
+```
 ├── team38_project2/
 │ ├── board/ # Piece, Board, Move …
 │ ├── agents/
@@ -39,8 +40,8 @@ earns points throughout the game.
 │ └── Main.java # CLI entry‑point
 ├── AI_project_2_2022 (TUC-CHESS-2022)-Final.pdf
 └── README.md
-
-📈 Results
+```
+##📈 Results
 
 Our best configuration **(Alpha‑Beta, depth = 5, heuristic = “material + positional
 score”)** achieved the highest average score and the fastest decision time across
