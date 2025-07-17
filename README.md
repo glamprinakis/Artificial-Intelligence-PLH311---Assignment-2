@@ -27,20 +27,6 @@ earns points throughout the game.
 
 ---
 
-## 📂 Quick Tour of the Code
-
-```
-├── team38_project2/
-│ ├── board/ # Piece, Board, Move …
-│ ├── agents/
-│ │ ├── MinimaxAgent.java
-│ │ ├── AlphaBetaAgent.java
-│ │ └── MCTSAgent.java
-│ ├── heuristics/ # Static evaluation & cutoff functions
-│ └── Main.java # CLI entry‑point
-├── AI_project_2_2022 (TUC-CHESS-2022)-Final.pdf
-└── README.md
-```
 ##📈 Results
 
 Our best configuration **(Alpha‑Beta, depth = 5, heuristic = “material + positional
